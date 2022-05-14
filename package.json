@@ -36,7 +36,7 @@
         "chai-as-promised": "^7.1.1",
         "chai-bignumber": "^2.0.2",
         "ganache-cli": "^6.1.6",
-        "truffle": "^4.1.13",
+        "truffle": "^5.0.20",
         "zeppelin-solidity": "^1.10.0"
     }
 }
